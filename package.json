@@ -1,0 +1,20 @@
+{
+  "name": "node-dictionary.js",
+  "version": "0.0.3",
+  "description": "Advanced dictionary module for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "tdk",
+    "tdk-api",
+    "sözlük"
+  ],
+  "author": "brightsme",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1"
+  }
+}
