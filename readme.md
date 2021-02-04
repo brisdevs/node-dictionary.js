@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/node-dictionary.js.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.com/package/node-dictionary.js/)
+
 # Advanced dictionary module for NodeJS.
 
 ## Türkçe;
